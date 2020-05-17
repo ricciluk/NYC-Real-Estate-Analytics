@@ -1,4 +1,4 @@
-# NYC-Real-Estate-Analytics
+# Profitability of Short-term Rental Business in NYC
 Project Objective: Analyze the profitability of short-term rental business in NYC and target the most profitable zip code area.
 
 
@@ -10,4 +10,5 @@ This project aims to analyze the home value and the overall shorm-term rental bu
 - Data Cleaning
 - Exploratory Analysis
 - Profitability Analysis
+- Recommendation
 
