@@ -1,4 +1,4 @@
-# Profitability of Short-term Rental Business in NYC
+## Profitability of Short-term Rental Business in NYC
 Project Objective: Analyze the profitability of short-term rental business in NYC and target the most profitable zip code area.
 
 
