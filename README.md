@@ -12,4 +12,4 @@ This project aims to analyze the home value and the overall shorm-term rental bu
 - Profitability Analysis
 - Recommendation
 
-![Visualization][investment_map.png]
+![Visualization][investment_map.jpg]
